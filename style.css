@@ -1,1 +1,9 @@
-
+h1 {
+   color: black;
+   font-family: 'Brush Script MT', cursive;
+}
+body{
+   background-color: rgb(225,196,190);
+   font-family: 'Courier New', monospace;
+   color: black;
+}
